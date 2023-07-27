@@ -1,4 +1,22 @@
 {
-  "comments": [],
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "66ab3eda_f6ae835a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 22728
+      },
+      "writtenOn": "2023-07-27T17:47:16Z",
+      "side": 1,
+      "message": "I guess you can revert this because\nhttps://review.lineageos.org/c/LineageOS/android_device_qcom_sepolicy/+/362343",
+      "revId": "0c003450c6c0ebd096de630d9a7a05f8c81bcc9c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ],
   "submitRequirementResults": []
 }
