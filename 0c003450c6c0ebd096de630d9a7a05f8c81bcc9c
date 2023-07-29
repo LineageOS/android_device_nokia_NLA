@@ -16,6 +16,24 @@
       "message": "I guess you can revert this because\nhttps://review.lineageos.org/c/LineageOS/android_device_qcom_sepolicy/+/362343",
       "revId": "0c003450c6c0ebd096de630d9a7a05f8c81bcc9c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b0edb8ce_a4c259b9",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32674
+      },
+      "writtenOn": "2023-07-29T06:14:00Z",
+      "side": 1,
+      "message": "Thanks for reminding me. I pushed a revert.",
+      "parentUuid": "66ab3eda_f6ae835a",
+      "revId": "0c003450c6c0ebd096de630d9a7a05f8c81bcc9c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ],
   "submitRequirementResults": []
